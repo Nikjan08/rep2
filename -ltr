@@ -1,0 +1,66 @@
+[33mcommit aee47f7635cb979b82e939433fe1a5cbce9bfca6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Tue Dec 18 09:37:01 2018 +0530
+
+    4
+
+[33mcommit af51f3eb26f0893593d7b87716715ffa110ce4b6[m[33m ([m[1;32mtest3[m[33m)[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Tue Dec 18 09:22:54 2018 +0530
+
+    new
+
+[33mcommit d4bd635d4314c0dbf9cddc912af3786f812f00e5[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Tue Dec 18 09:22:54 2018 +0530
+
+    rebase
+
+[33mcommit 2ef184fb450f187969c12af91995dcd717dc6cff[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Tue Dec 18 09:12:05 2018 +0530
+
+    conflict issue
+
+[33mcommit 11a0877966f938364875e1daa179f980197238c3[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Tue Dec 18 09:02:00 2018 +0530
+
+    rebase commit
+
+[33mcommit e41aef8bcc1b0fc716f15b275d83be10eb9b07c5[m
+Merge: ba1730b 73b7a52
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 15:28:27 2018 +0530
+
+    merge conflict
+
+[33mcommit 73b7a528f92f73204da1fcb778a3986afcfb7011[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 15:25:01 2018 +0530
+
+    conflict changes
+
+[33mcommit ba1730b5ef28679cb3db2efcbd951c71a0d5880b[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 15:23:26 2018 +0530
+
+    conflict
+
+[33mcommit 1932692c304962ec52af0a6105a134c91e6429a0[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 15:11:55 2018 +0530
+
+    fourth com mit
+
+[33mcommit e9e588155a2b350c239a81bdc6d949895b310097[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 14:35:00 2018 +0530
+
+    second commit
+
+[33mcommit 20d5c2056e87faaa42525a0aae07572c475a001c[m
+Author: janani <janani.rajan@wellsfargo.com>
+Date:   Mon Dec 17 14:08:33 2018 +0530
+
+    First Commit
